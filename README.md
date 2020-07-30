@@ -36,3 +36,4 @@ I think I would like to learn this sort of thing to write little  helpful progra
     </ul>
   </div>
 </nav>
+<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
